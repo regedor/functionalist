@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    functionalist (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.4.1)
+    minitest-colorize (0.0.5)
+      minitest (>= 2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  functionalist!
+  minitest-colorize

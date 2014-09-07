@@ -1,4 +1,4 @@
-module Funcionalist
+module Functionalist
 
   VERSION = '0.0.1'
 

@@ -1,4 +1,4 @@
-## Funcionalist 0.0.1 (Aug 29, 2014) ##
+## Functionalist 0.0.1 (Sep 08, 2014) ##
 
 * No changes.
 
